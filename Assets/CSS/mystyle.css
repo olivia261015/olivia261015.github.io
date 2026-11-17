@@ -1,0 +1,44 @@
+h1{
+    color: brown;background-color: lightgray;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    color: blue;
+    font-size: 1rem;
+    text-indent:10rem;
+}
+#heading-one{
+    color: green;
+}
+.text-color-yellow{
+    color: yellow;}
+.primary-color{
+    color: red;
+}
+.primary-color-background{
+    background-color: rgb(186, 230, 173);
+}
+body{
+    background-image: url("../image/Van pic.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/*comment, this sign*/
+a{
+    color: blue;
+    text-decoration: none;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 20px 30px 20px 30px;
+}
+a:hover{
+    color: rgb(199, 14, 162);
+    text-decoration: none;
+    background-color: transparent;
+}
